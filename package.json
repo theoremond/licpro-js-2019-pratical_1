@@ -1,0 +1,12 @@
+{
+  "name": "licpro_2019_pratical_1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "scripts": {
+    "test": "node_modules/jest/bin/jest.js"
+  }
+}
