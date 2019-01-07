@@ -11,14 +11,14 @@ git clone git@github.com:claudusd-edu/licro-2019-js-pratical_1.git
 ```
 
 ### With HTTPS
-
+[Doc](https://help.github.com/articles/cloning-a-repository/)
 ```
 git clone https://github.com/claudusd-edu/licro-2019-js-pratical_1.git
 ```
 
 ### Fork
 
-Fork this repository with you github's account.
+Fork this repository with you github's account. [Doc](https://guides.github.com/activities/forking/)
 
 ```
 git clone git@github.com:YOUR_USERNAME/licro-2019-js-pratical_1.git
@@ -34,3 +34,8 @@ Pass the 25 tests.
 * Read the lesson 1
 * Read test case
 * Read test running output
+
+
+## End
+
+If you fork this repository, please create a pull request. [Doc](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)  
