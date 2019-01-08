@@ -1,5 +1,9 @@
 const string = require('../src/string');
-// Futher import's module 
+const fonction = require('../src/fonction');
+const Student = require('../src/Student');
+const {hard, easy} = require('../src/examen');
+
+// Futher import's module
 
 test('default export of module string return "Hi"', () => {
   expect(string).toBe('Hi');
